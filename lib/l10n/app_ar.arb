@@ -1,0 +1,94 @@
+{
+  "@@locale": "ar",
+  "appTitle": "نظام إدارة التعلم",
+  "welcome": "مرحباً",
+  "login": "تسجيل الدخول",
+  "logout": "تسجيل الخروج",
+  "emailOrPhone": "البريد الإلكتروني أو الهاتف",
+  "emailOrPhoneHint": "أدخل بريدك الإلكتروني أو رقم هاتفك",
+  "emailOrPhoneError": "يرجى إدخال بريدك الإلكتروني أو رقم هاتفك",
+  "password": "كلمة المرور",
+  "passwordHint": "أدخل كلمة المرور",
+  "passwordError": "يرجى إدخال كلمة المرور",
+  "passwordMinLengthError": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+  "student": "طالب",
+  "parent": "ولي أمر",
+  "teacher": "معلم",
+  "welcomeMessage": "مرحباً بك في منصتنا التعليمية",
+  "loginFailed": "فشل تسجيل الدخول",
+  "selectEducationSystem": "اختر نظام التعليم",
+  "selectEducationalStage": "اختر المرحلة التعليمية",
+  "selectClassroomGrade": "اختر الفصل/الصف",
+  "selectAcademicTerm": "اختر الفصل الدراسي",
+  "selectEducationalTrack": "اختر المسار التعليمي",
+  "back": "رجوع",
+  "continueToSubjects": "المتابعة إلى المواد",
+  "subjects": "المواد",
+  "subjectsFound": "تم العثور على {count} مادة",
+  "@subjectsFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "viewAllDetails": "عرض جميع التفاصيل",
+  "searchSubjects": "البحث في المواد...",
+  "noSubjectsAvailable": "لا توجد مواد متاحة",
+  "noSubjectsFound": "لم يتم العثور على مواد لـ \"{query}\"",
+  "@noSubjectsFound": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "clearSearch": "مسح البحث",
+  "lessons": "الدروس",
+  "searchLessons": "البحث في الدروس...",
+  "noLessonsAvailable": "لا توجد دروس متاحة",
+  "noLessonsFound": "لم يتم العثور على دروس لـ \"{query}\"",
+  "@noLessonsFound": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "completedOnly": "المكتملة فقط",
+  "completed": "{completed}/{total} مكتمل",
+  "@completed": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "quizStatistics": "إحصائيات الاختبار",
+  "totalQuestions": "إجمالي الأسئلة",
+  "correctAnswers": "الإجابات الصحيحة",
+  "wrongAnswers": "الإجابات الخاطئة",
+  "totalTime": "الوقت الإجمالي",
+  "backToLessons": "العودة إلى الدروس",
+  "excellent": "ممتاز!",
+  "goodJob": "عمل جيد!",
+  "keepPracticing": "استمر في الممارسة!",
+  "logoutConfirmation": "تسجيل الخروج",
+  "logoutConfirmationMessage": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+  "cancel": "إلغاء",
+  "refresh": "تحديث",
+  "language": "اللغة",
+  "theme": "المظهر",
+  "lightTheme": "فاتح",
+  "darkTheme": "داكن",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "settings": "الإعدادات",
+  "educationalSelection": "الاختيار التعليمي",
+  "unknownStep": "خطوة غير معروفة",
+  "general": "عام"
+}
+

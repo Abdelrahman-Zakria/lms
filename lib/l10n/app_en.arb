@@ -1,0 +1,97 @@
+{
+  "@@locale": "en",
+  "appTitle": "LMS - Learning Management System",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "welcome": "Welcome",
+  "login": "Login",
+  "logout": "Logout",
+  "emailOrPhone": "Email or Phone",
+  "emailOrPhoneHint": "Enter your email or phone number",
+  "emailOrPhoneError": "Please enter your email or phone number",
+  "password": "Password",
+  "passwordHint": "Enter your password",
+  "passwordError": "Please enter your password",
+  "passwordMinLengthError": "Password must be at least 6 characters",
+  "student": "Student",
+  "parent": "Parent",
+  "teacher": "Teacher",
+  "welcomeMessage": "Welcome to our educational platform",
+  "loginFailed": "Login failed",
+  "selectEducationSystem": "Select Education System",
+  "selectEducationalStage": "Select Educational Stage",
+  "selectClassroomGrade": "Select Classroom/Grade",
+  "selectAcademicTerm": "Select Academic Term",
+  "selectEducationalTrack": "Select Educational Track",
+  "back": "Back",
+  "continueToSubjects": "Continue to Subjects",
+  "subjects": "Subjects",
+  "subjectsFound": "{count} subjects found",
+  "@subjectsFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "viewAllDetails": "View All Details",
+  "searchSubjects": "Search subjects...",
+  "noSubjectsAvailable": "No subjects available",
+  "noSubjectsFound": "No subjects found for \"{query}\"",
+  "@noSubjectsFound": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "clearSearch": "Clear Search",
+  "lessons": "Lessons",
+  "searchLessons": "Search lessons...",
+  "noLessonsAvailable": "No lessons available",
+  "noLessonsFound": "No lessons found for \"{query}\"",
+  "@noLessonsFound": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "completedOnly": "Completed Only",
+  "completed": "{completed}/{total} completed",
+  "@completed": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "quizStatistics": "Quiz Statistics",
+  "totalQuestions": "Total Questions",
+  "correctAnswers": "Correct Answers",
+  "wrongAnswers": "Wrong Answers",
+  "totalTime": "Total Time",
+  "backToLessons": "Back to Lessons",
+  "excellent": "Excellent!",
+  "goodJob": "Good Job!",
+  "keepPracticing": "Keep Practicing!",
+  "logoutConfirmation": "Logout",
+  "logoutConfirmationMessage": "Are you sure you want to logout?",
+  "cancel": "Cancel",
+  "refresh": "Refresh",
+  "language": "Language",
+  "theme": "Theme",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "english": "English",
+  "arabic": "Arabic",
+  "settings": "Settings",
+  "educationalSelection": "Educational Selection",
+  "unknownStep": "Unknown step",
+  "general": "General"
+}
+
